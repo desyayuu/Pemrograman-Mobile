@@ -415,6 +415,13 @@ class HomePage extends StatelessWidget {
                                 fontSize: 14,
                               ),
                             ),
+                            Text(
+                              '& Internet',
+                              style: TextStyle(
+                                color: Colors.black,
+                                fontSize: 14,
+                              ),
+                            ),
                           ],
                         ),
                         Column(
@@ -441,7 +448,14 @@ class HomePage extends StatelessWidget {
                               size: 30,
                             ),
                             Text(
-                              'Ikon 7',
+                              'Kartu Uang',
+                              style: TextStyle(
+                                color: Colors.black,
+                                fontSize: 14,
+                              ),
+                            ),
+                            Text(
+                              'Elektronik',
                               style: TextStyle(
                                 color: Colors.black,
                                 fontSize: 14,
