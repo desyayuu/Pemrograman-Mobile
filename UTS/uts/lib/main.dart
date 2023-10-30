@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:uts/app/widgets/home.dart';
+import 'package:uts/app/widgets/history.dart';
+import 'package:uts/app/widgets/homepage.dart';
 
 void main() {
   runApp(MyApp());
@@ -9,6 +10,13 @@ void main() {
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return SplashHome();
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      initialRoute: '/home',
+      routes: {
+        '/home': (context) => HomePage(),
+        '/history': (context) => HistoryPage(),
+      },
+    );
   }
 }

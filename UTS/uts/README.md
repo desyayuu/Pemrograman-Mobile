@@ -1,16 +1,13 @@
-# uts
+# UTS 
 
-A new Flutter project.
+Membuat Tampilan Link Aja
 
-## Getting Started
+## Tampilan Home Page
 
-This project is a starting point for a Flutter application.
+![Home Page](homepage.jpgg)
 
-A few resources to get you started if this is your first Flutter project:
+# Tampilan Transaction History
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Transaction History 1](historypage_1.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Transaction History 1](historypage_2.jpg)
