@@ -4,7 +4,7 @@ Membuat Tampilan Link Aja
 
 ## Tampilan Home Page
 
-![Home Page](homepage.jpgg)
+![Home Page](homepage.jpg)
 
 # Tampilan Transaction History
 
